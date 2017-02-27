@@ -28,7 +28,7 @@ reportReactor: {
 ![Screenshot](https://tmcgee.github.io/cmv-widgets/images/report2.jpg)
 
 ---
-## Example Search Widget Configuration:
+## Example Report Widget Configuration:
 ``` javascript
 define(null, function () {
 
